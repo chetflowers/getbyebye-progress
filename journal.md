@@ -6,4 +6,10 @@
 - Set up the `getbyebye-site` repo for my website.  
 - Added a basic `index.html` page.  
 - Enabled GitHub Pages—site is now live at [your URL].  
-- Next steps: Improve website content, build the security quiz. 
+- Next steps: Improve website content.
+
+## Day 2 - March 6, 2025  
+- Improved the website layout for better readability.  
+- Successfully added an email capture form using Formspree.  
+- Tested the form, and submissions are working correctly.  
+- Next step: Start building the "Am I Being Tracked?" quiz.
