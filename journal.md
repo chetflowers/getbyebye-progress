@@ -7,23 +7,33 @@
 - Researched and tested DNS settings to connect GitHub Pages to GoDaddy.
 
 ### **Day 2 - March 3, 2025**
-- Improved the website layout for better readability.
 - Added an email capture form using Formspree.
 - Verified that email submissions work correctly.
-- Updated `index.html` with a better structure and basic styling.
+- Created `index.html` as the homepage.
 
 ### **Day 3 - March 4, 2025**
 - Built and implemented the **"Am I Being Tracked?"** quiz (`quiz.html`).
 - Developed a simple JavaScript scoring system to determine risk levels.
-- Linked the quiz from the homepage with a **neon button system**.
-- Fixed styling issues to ensure consistency across pages.
-- Debugged **Get Updates** button and improved scrolling functionality.
-- Adjusted the **dark theme** with **electric pink text** and **neon green buttons**.
+- Linked the quiz from the homepage.
 - Tested all buttons and interactions to ensure smooth navigation.
 
 ### **Day 4 - March 5, 2025**
-- Moved the **email form** to the bottom of the page for better UX.
-- Fixed scrolling issues with the **Get Updates** button.
-- Updated the **quiz page (`quiz.html`) to match the homepage design.**
-- Verified email subscription and quiz submission functionality.
-- Next step: **Create security guides based on quiz results.**
+- Created security guide pages for **low risk, medium risk, and high risk results.**
+- Linked **quiz results to the correct guide pages** (`low-risk.html`, `medium-risk.html`, `high-risk.html`).
+
+### **Day 5 - March 6, 2025**
+- Debugged homepage issue; restored `index.html` as the main page.
+- Fixed "Back to Home" buttons across security guide pages.
+- Ensured all quiz results **link correctly to the right guide pages**.
+- Shifted focus to **core security content and functionality**.
+
+### **Next Steps for Tomorrow**
+**Pick a security feature to add:**
+1. **Build a Simple Stalkerware Detection Checklist (`checklist.html`)**
+   - A step-by-step manual guide for users to check their devices.
+2. **Plan a Future Mobile Scanner**
+   - Outline what a stalkerware detection tool should check for.
+3. **Set Up a Resources Page**
+   - List trusted privacy tools, security guides, and anti-stalkerware apps.
+
+**Decide which feature to focus on first and start building!**
